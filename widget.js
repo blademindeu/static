@@ -25,7 +25,7 @@ style.innerHTML = `
     .discord-logo {
         width: 45px;
         height: 45px;
-        background: url('https://panel.blademind.eu//favicons/favicon-blade2.png') no-repeat center/contain;
+        background: url('https://panel.blademind.eu//favicons/favicon-blade1.png') no-repeat center/contain;
     }
 
     .join-us {
