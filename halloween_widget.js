@@ -25,7 +25,7 @@ style.innerHTML = `
     .discord-logo {
         width: 45px;
         height: 45px;
-        background: url('https://dev.blademind.eu/templates/ruzenko-halloween/img/logo.png') no-repeat center/contain;
+        background: url('https://dev.blademind.eu/templates/ruzenko-halloween/img/popup.png') no-repeat center/contain;
     }
 
     .join-us {
